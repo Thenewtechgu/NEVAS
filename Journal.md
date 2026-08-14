@@ -27,6 +27,7 @@ So I wired the 3.3V lines and 1.2V:
 <img width="452" height="449" alt="Screenshot 2026-08-14 at 16 09 55" src="https://github.com/user-attachments/assets/fe432229-c8dd-40ba-8f96-e8a70f732e4e" />
 
 For the power supply I'm gonna use the NCP1117-3.3V for each FMU and the sensors, PWM group will get their own NCP1117.
+
 <img width="452" height="449" alt="Screenshot 2026-08-14 at 16 09 55" src="https://github.com/user-attachments/assets/a316aa16-d428-45ed-8ea0-865476a61479" />
 
 Time spent: 2 hour 1 minute
