@@ -13,10 +13,12 @@ NEVAS Research part 2 and started wiring
 So today I finished my research and started wiring the MFMU using the help of the datasheet and AI. Will continue tomorrow.
 
 These are the requirements that I came up with for part hunting
+
 <img width="662" height="701" alt="Screenshot 2026-08-14 at 16 40 19" src="https://github.com/user-attachments/assets/c6cfbe76-409f-4777-aee2-4792c548bb63" />
 
 
 So these are the components I'm gonna use
+
 <img width="374" height="661" alt="Screenshot 2026-08-14 at 16 40 03" src="https://github.com/user-attachments/assets/5d3b3235-bfa3-4bee-9cab-c85c6b5d0c57" />
 
 
