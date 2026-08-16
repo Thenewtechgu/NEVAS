@@ -31,4 +31,12 @@ For the power supply I'm gonna use the NCP1117-3.3V for each FMU and the sensors
 <img width="452" height="449" alt="Screenshot 2026-08-14 at 16 09 55" src="https://github.com/user-attachments/assets/a316aa16-d428-45ed-8ea0-865476a61479" />
 
 Time spent: 2 hour 1 minute
+# Sunday 16 August 
+So for the last 2 days I've been wiring the 2 crystal, which are now done!. 
+PS:Why are datasheets so long and confusing!!!!:((
+
+<img width="379" height="560" alt="image" src="https://github.com/user-attachments/assets/3045dbb4-e3f4-44ed-9af7-fb87af9fb426" />
+
+Time spent: 42 minutes
+
 
