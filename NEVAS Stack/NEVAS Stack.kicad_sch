@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "21a18f94-fad6-48a9-b2d3-34f8557b7d26")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 99.06)
+		(size 117.475 84.455)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4993c1c5-4d78-43c3-a665-3cf253f8427c")
+		(property "Sheetname" "Sensors and interfaces"
+			(at 25.4 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensorsandinterfaces.kicad_sch"
+			(at 25.4 184.0996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NEVAS Stack"
+				(path "/21a18f94-fad6-48a9-b2d3-34f8557b7d26"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 22.86)
+		(size 91.44 74.295)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a6a9f26a-5567-4ab5-a0f1-f87bb001e781")
+		(property "Sheetname" "Main FMU"
+			(at 177.8 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Main FMU.kicad_sch"
+			(at 177.8 97.7396 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NEVAS Stack"
+				(path "/21a18f94-fad6-48a9-b2d3-34f8557b7d26"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 21.59)
+		(size 71.755 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cd5bc8ab-8390-4716-b15e-986bf9f8d97c")
+		(property "Sheetname" "Backup FMU"
+			(at 105.41 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BackupFMU.kicad_sch"
+			(at 105.41 97.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NEVAS Stack"
+				(path "/21a18f94-fad6-48a9-b2d3-34f8557b7d26"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
