@@ -1,4 +1,3 @@
-# I know I won't be able to finish this for Stardance so this is my devlogs if I chose a different program
 
 # Thursday 13 August
 <img width="1182" height="784" alt="image" src="https://github.com/user-attachments/assets/a0e30686-85e8-4fc4-a2a5-7d68ca32eb88" />
@@ -38,5 +37,13 @@ PS:Why are datasheets so long and confusing!!!!:((
 <img width="379" height="560" alt="image" src="https://github.com/user-attachments/assets/3045dbb4-e3f4-44ed-9af7-fb87af9fb426" />
 
 Time spent: 42 minutes
+
+# Saturday 19 September
+## Wowww its been a month since I last touched this. IDK what I was doing:))
+<img width="499" height="476" alt="image" src="https://github.com/user-attachments/assets/c71e6727-818e-4ebb-8544-9238be0e0570" />
+
+So I asked AI to check the datasheet and what I have done to see what I was missing. Did that and wired the microsd card slot and jtag debug pins. Im thinking of moving the barometer and gps to a 3rd board so we won't get interference 
+
+Time spent: 25 minutes
 
 
